@@ -1,0 +1,26 @@
+{
+  "name": "endor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stianhn/endor"
+  },
+  "author": "Stian H. Nesbø",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stianhn/endor/issues"
+  },
+  "homepage": "https://github.com/stianhn/endor",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cookie-parser": "^1.3.4",
+    "express": "^4.11.2",
+    "express-session": "^1.10.3",
+    "fitbit": "0.0.6"
+  }
+}
